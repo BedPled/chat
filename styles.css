@@ -1,0 +1,31 @@
+button {
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    background: #4676D7;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 16px;
+}
+
+.text {
+    text-align: center;
+    margin-left: auto;
+}
+
+.auf {
+    text-align: center;
+}
+
+.in {
+    display: block;
+    text-align: center;
+}
+
+.authorisation {
+    text-align: center;
+}
+
+.authorisationtrue {
+    text-align: center;
+}
